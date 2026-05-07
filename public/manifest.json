@@ -1,0 +1,11 @@
+{
+  "name": "Amblast | Facility Services",
+  "short_name": "Amblast",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1668a8",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
